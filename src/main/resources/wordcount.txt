@@ -1,0 +1,1 @@
+hello,world,hadoop,neuedu,hive,sqoop,flume,neuedu,hellokitty,tom,neuedu,neuedu,jerry,world,hadoop,neuedu
